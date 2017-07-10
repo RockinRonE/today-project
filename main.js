@@ -4,12 +4,15 @@ import { StyleSheet, Text, View, ScrollView } from 'react-native';
 import Footer from './src/components/Footer';
 import DisplayDate from './src/components/DisplayDate';
 import Quote from './src/components/Quote';
+import Announcements from './src/components/Announcements';
 
 const App = () => {
   return (
     <View style={styles.container} >
       <ScrollView>
-        <Text>Some Text for now</Text>
+        <DisplayDate />
+        <Quote />
+        <Announcements /> 
       </ScrollView>
         <Footer />
     </View>

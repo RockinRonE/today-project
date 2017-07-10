@@ -34,6 +34,7 @@ const styles = {
 		fontWeight: '800',
 		color: 'grey',
 		textAlign: 'center',
+		fontSize: 24,
 	}
 }
 

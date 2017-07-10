@@ -7,7 +7,7 @@ const Footer = () => {
 		<View>
       <Image
         source={require('../../assets/images/footer.png') }
-        style={{ height: 140, width: width }}
+        style={{ height: 170, width: width }}
       />
     </View>
 	);

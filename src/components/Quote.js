@@ -37,7 +37,7 @@ const styles = {
 		// flex: 1,
 		width: 300, 
 		// flex: 1,
-		marginTop: 80,
+		// marginTop: 40,
 	},
 	viewContainer: {
 		// position: 'relative',
